@@ -1,0 +1,10 @@
+body {
+    background: darkkhaki;
+    color: white;
+}
+
+.heading {
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 5;
+}
